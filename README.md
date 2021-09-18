@@ -6,9 +6,7 @@
 * [Website](#website)
 * [Languages](#languages)
 * [Installations](#installations)
-* [Purpose](#purpose)
 * [License Badge](#licensebadge)
-* [Features](#features)
 * [Contributions](#contributions)
 
 ## Description
