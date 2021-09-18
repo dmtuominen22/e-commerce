@@ -17,13 +17,14 @@
  [dmtuomine22](https://github.com/dmtuominen22/e-commerce)
 
 ## Website/Video's
+
 Not deployed 
-Get all Categories
 
-Get by ID
+[Get all Categories](GET-all_Categories_products_tags.mp4)
 
+[Get by ID](Get-by-id-tag-product-category.mp4)
 
-Post Put Delete
+[Post Put Delete](Post-Put-Delete.mp4)
 
 ## Languages
   Node, Express, My SQL2 Sequelize Dotenu
