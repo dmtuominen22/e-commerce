@@ -3,7 +3,7 @@
 ## Table of Content:
 * [Description](#description)
 * [GitHub](#github)
-* [Website](#website)
+* [Website/VIdeo's](#website)
 * [Languages](#languages)
 * [Installations](#installations)
 * [License Badge](#licensebadge)
@@ -20,11 +20,14 @@
 
 Not deployed 
 
-[Get all Categories](GET-all_Categories_products_tags.mp4)
+[Get all Categories Video](https://user-images.githubusercontent.com/84994258/133895760-82a50de9-0d6c-4ae8-bdb8-be70bd5eb0ea.mp4
+)
 
-[Get by ID](Get-by-id-tag-product-category.mp4)
+[Get by ID Video](https://user-images.githubusercontent.com/84994258/133895775-d47c4527-ffe3-4f1a-9bd4-96f6f4c500e4.mp4)
 
-[Post Put Delete](Post-Put-Delete.mp4)
+[Post Put Delete Video Categories](https://user-images.githubusercontent.com/84994258/133895786-185cc920-e397-41ab-8085-199cc0212baf.mp4)
+
+
 
 ## Languages
   Node, Express, My SQL2 Sequelize Dotenu
