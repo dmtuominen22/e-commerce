@@ -14,10 +14,16 @@
  The Database has 4 tables products, categories, tags and product tags. 
 
 ## GitHub
- [dmtuomine22](https://github.com/dmtuomine22)
+ [dmtuomine22](https://github.com/dmtuominen22/e-commerce)
 
-## Website
-  https://github.com/dmtuominen22/
+## Website/Video's
+Not deployed 
+Get all Categories
+
+Get by ID
+
+
+Post Put Delete
 
 ## Languages
   Node, Express, My SQL2 Sequelize Dotenu
