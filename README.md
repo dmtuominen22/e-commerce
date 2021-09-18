@@ -23,7 +23,7 @@
   Node, Express, My SQL2 Sequelize Dotenu
 
 ## Installations
-  Here are all the directions
+ I had to install mysql express, node.js, dotenu
 
 ## License Badge
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
