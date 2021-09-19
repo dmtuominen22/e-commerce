@@ -10,7 +10,7 @@
 * [Contributions](#contributions)
 
 ## Description
- This project is a back end of the E-Commerce website. I used Express.js, mySQL and Sequelize, to set up my dtabase and run it.
+ This project is a back end of the E-Commerce website. I used Express.js, mySQLn insomnia and Sequelize, to set up my dtabase and run it.
  The Database has 4 tables products, categories, tags and product tags. 
 
 ## GitHub
@@ -27,7 +27,9 @@ Not deployed
 
 [Post Put Delete Video Categories](https://user-images.githubusercontent.com/84994258/133895786-185cc920-e397-41ab-8085-199cc0212baf.mp4)
 
+[full length video](Images-videos\All the put_get_post_run_thru.mp4)
 
+[image of insomnia](![image](https://user-images.githubusercontent.com/84994258/133913377-0944641b-0789-4b22-a59a-aa90bfdb713f.png))
 
 ## Languages
   Node, Express, My SQL2 Sequelize Dotenu
