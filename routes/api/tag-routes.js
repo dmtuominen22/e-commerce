@@ -38,8 +38,8 @@ router.get('/:id', (req, res) => {
     });
 });
 
+// POST create a new tag
 router.post('/', (req, res) => {
-  // create a new tag
   Tag.create({
     tag_name: req.body.tag_name
   })
@@ -50,8 +50,8 @@ router.post('/', (req, res) => {
     });
 });
 
+// PUT update a tag
 router.put('/:id', (req, res) => {
-  // update a tag's name by its `id` value
   Tag.update(
     {
       tag_name: req.body.tag_name
